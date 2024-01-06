@@ -1,4 +1,5 @@
-![banner](https://github.com/Engr-imran7/Engr-imran7/assets/154506940/334b6b20-40c9-4409-9bf1-81b99b6c5f5f)
+![Blue And White Modern Minimal Business Channel Youtube Banner (1)](https://github.com/Engr-imran7/Engr-imran7/assets/154506940/18a84bcb-83fa-4eff-a75a-8f4520be9b15)
+
 <h1 align="center">Hi 👋, I'm Engr Imran Nazir</h1>
 <h3 align="center">A passionated Robot Engineer From Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
