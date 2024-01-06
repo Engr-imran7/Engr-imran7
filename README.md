@@ -1,7 +1,7 @@
-![baner2](https://github.com/Engr-imran7/Engr-imran7/assets/154506940/9604cb13-e385-4f46-8f1f-aa41ac3e249a)
+![banner](https://github.com/Engr-imran7/Engr-imran7/assets/154506940/d01ca1e3-0266-495d-b0b5-421aa0e2303e)
 
 <h1 align="center">Hi 👋, I'm Engr Imran Nazir</h1>
-<h3 align="center">A passionated Robot Engineer From Pakistan</h3>
+<h3 align="center">A passionated Robotics Engineer From Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engr-imran7&label=Profile%20views&color=0e75b6&style=flat" alt="engr-imran7" /> </p>
