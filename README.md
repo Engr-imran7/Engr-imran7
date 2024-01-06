@@ -1,4 +1,4 @@
-![Blue And White Modern Minimal Business Channel Youtube Banner (1)](https://github.com/Engr-imran7/Engr-imran7/assets/154506940/18a84bcb-83fa-4eff-a75a-8f4520be9b15)
+![baner2](https://github.com/Engr-imran7/Engr-imran7/assets/154506940/9604cb13-e385-4f46-8f1f-aa41ac3e249a)
 
 <h1 align="center">Hi 👋, I'm Engr Imran Nazir</h1>
 <h3 align="center">A passionated Robot Engineer From Pakistan</h3>
