@@ -9,9 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/engr_imran9" target="blank"><img src="https://img.shields.io/twitter/follow/engr_imran9?logo=twitter&style=for-the-badge" alt="engr_imran9" /></a> </p>
 
+- 🔭 I’m currently working on **Resbary pi, Resbary pi pico and Arduino**
+
 - 🌱 I’m currently learning **Robotics, Arduino, Resbary pi**
 
-- 💬 Ask me about **programing , Robotics, Resbary pi**
+- 💬 Ask me about **programing, Robotics, Arduino, Resbary pi**
 
 - 📫 How to reach me **engrimran021@gmail.com**
 
