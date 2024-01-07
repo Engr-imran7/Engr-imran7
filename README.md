@@ -1,4 +1,4 @@
-![banner](https://github.com/Engr-imran7/Engr-imran7/assets/154506940/d01ca1e3-0266-495d-b0b5-421aa0e2303e)
+![banner](https://github.com/Engr-imran7/Engr-imran7/assets/154506940/26f23660-0558-421c-b45c-892b0d70b1e8)
 
 <h1 align="center">Hi 👋, I'm Engr. Imran Nazir</h1>
 <h3 align="center">A passionated Robotics Engineer From Pakistan</h3>
