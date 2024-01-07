@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Robotics, Arduino, Resbary pi**
 
-- 💬 Ask me about **programing, Robotics, Arduino, Resbary pi**
+- 💬 Ask me about programing, Robotics, Arduino, Resbary pi
 
 - 📫 How to reach me **engrimran021@gmail.com**
 
