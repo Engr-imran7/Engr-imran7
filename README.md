@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Arduino, Esp32 and PCB designing**
 
-- 🌱 I’m currently learning **rduino, Esp32 and PCB designing**
+- 🌱 I’m currently learning **Arduino, Esp32 and PCB designing**
 
 - 💬 Ask me about **programing, Robotics, Arduino, Raspberry pi**
 
