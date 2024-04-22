@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Arduino, Esp32 and PCB designing**
 
-- 💬 Ask me about **programing, Robotics, Arduino, Raspberry pi**
+- 💬 Ask me about **programing, Robotics, Arduino, esp32 and pcb designing**
 
 - 📫 How to reach me **engrimran021@gmail.com**
 
