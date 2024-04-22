@@ -10,9 +10,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Raspberry pi pico and Arduino**
+- 🔭 I’m currently working on **Arduino, Esp32 and PCB designing**
 
-- 🌱 I’m currently learning **Robotics, Arduino, Resbary pi**
+- 🌱 I’m currently learning **rduino, Esp32 and PCB designing**
 
 - 💬 Ask me about **programing, Robotics, Arduino, Raspberry pi**
 
