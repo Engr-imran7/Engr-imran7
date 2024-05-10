@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **programing, Robotics, Arduino, esp32 and pcb designing**
 
-- 📫 How to reach me **engrimran021@gmail.com**
+- 📫 How to reach me **021engr.imran@gmail.com**
 
 - ⚡ Fun fact **I am a serious person..**
 
